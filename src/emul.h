@@ -22,7 +22,7 @@ enum GPREGS = {
 	VC,
 	VD,
 	VF,
-	REGS
+	REGNB
 }
 
 
